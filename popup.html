@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TimeWise</title>
+  <script src="libs/chart.js"></script>
+  <script src="libs/chartjs-plugin-datalabels.js"></script>
+  <script src="popup.js" defer></script>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #f4f4f9; margin: 0; padding: 20px; }
+    .chart-container { width: 100%; max-width: 600px; margin: 0 auto; }
+    h1 { text-align: center; color: #333; }
+    ul { list-style: none; padding: 0; }
+    .website-item { background: #fff; padding: 10px; margin: 5px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+    .chart { width: 100%; height: 300px; margin-bottom: 20px; }
+  </style>
+</head>
+<body>
+  <div class="chart-container">
+    <h1>TimeWise</h1>
+    <div class="chart">
+      <canvas id="chart"></canvas>
+    </div>
+    <ul id="website-list"></ul>
+  </div>
+</body>
+</html>
