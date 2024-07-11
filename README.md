@@ -6,12 +6,17 @@
 The Screen Time Tracker Web browser extension provides users with valuable insights into their browsing habits by categorizing and visualizing the time spent on different websites. Its seamless integration with web browsers and user-friendly interface make it a useful tool for anyone looking to monitor and optimize their online activities.
 <hr>
 
-<h3>Key Features</h3>
+## <h3>Key Features</h3>
 
-**Real-Time Tracking:** Continuously tracks and records the time spent on each website.
+- **Real-Time Tracking:** Continuously tracks and records the time spent on each website.
 
-**Categorization:** Automatically categorizes websites into predefined categories based on regular expressions.
+- **Categorization:** Automatically categorizes websites into predefined categories based on regular expressions.
 
-**Visual Representation:** Displays the data in a pie chart with percentage labels for each category.
+- **Visual Representation:** Displays the data in a pie chart with percentage labels for each category.
 
-**Detailed List:** Provides a sorted list of websites based on the time spent, displaying the category and total time.
+- **Detailed List:** Provides a sorted list of websites based on the time spent, displaying the category and total time.
+
+## Screenshot
+
+<img width="255" alt="main screen" src="https://github.com/user-attachments/assets/328f59f7-53c0-4324-b19c-062425534d82">
+
